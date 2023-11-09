@@ -6,3 +6,10 @@ SERVER={SERVER}
 UserID={USER}
 Password={PASSWORD}
 Database={DATABASE}
+
+
+
+Run the program:
+
+go mod tidy
+go run main.go
