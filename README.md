@@ -1,7 +1,4 @@
-# GolangGormEcho
-
-
-create .env file
+##create .env file
 
 put this in your .env file
 
